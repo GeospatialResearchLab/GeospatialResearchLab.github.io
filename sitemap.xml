@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://GeospatialResearchLab.github.io/index.html</loc>
-    <lastmod>2025-09-09T14:16:25.056Z</lastmod>
+    <loc>https://GeospatialResearchLab.github.io/workshops.html</loc>
+    <lastmod>2025-09-09T14:33:54.602Z</lastmod>
   </url>
   <url>
     <loc>https://GeospatialResearchLab.github.io/about.html</loc>
-    <lastmod>2025-09-09T14:16:25.056Z</lastmod>
+    <lastmod>2025-09-09T14:33:54.601Z</lastmod>
+  </url>
+  <url>
+    <loc>https://GeospatialResearchLab.github.io/resources.html</loc>
+    <lastmod>2025-09-09T14:33:54.602Z</lastmod>
+  </url>
+  <url>
+    <loc>https://GeospatialResearchLab.github.io/index.html</loc>
+    <lastmod>2025-09-09T14:33:54.601Z</lastmod>
   </url>
 </urlset>

@@ -1,16 +1,16 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "GeospatialResearchLab.github.io",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Geospatial Research Lab",
+    "section": "",
+    "text": "Geospatial Research Lab\nThe Geospatial Research Lab is the University Library’s geospatial research support program for faculty, students, and staff at American University. We provide expertise in geographic information systems (GIS), spatial analysis, and mapping, helping the AU community apply spatial thinking and geospatial tools across disciplines. Services include guidance on data acquisition, project design, software, and map-based storytelling.\nWhether you’re designing a map for a publication, seeking spatial data for a capstone, or exploring GIS methods for a class project, the Geospatial Research Lab can help. We work with researchers at every stage from idea development through analysis and presentation.\nWe also support instructors who want to integrate mapping or spatial data into their teaching. This includes help designing assignments, identifying appropriate tools or datasets, and developing lab activities or course-specific GIS resources.\nOur work includes:\n\nConsultations on spatial methods and data\n\nGuidance with GIS tools including ArcGIS Pro, QGIS, R, and open mapping platforms\n\nInstructional support for incorporating mapping into the classroom\n\nCuration of AU’s geospatial and statistical data collections\n\nConsultations are available by appointment. While we do not provide one-on-one software instruction, we can help you clarify research questions, identify appropriate tools and training resources, and troubleshoot issues related to spatial data and analysis. To request a consultation or learn more about our services, visit our Bookings site.\nLooking for access to GIS software? Visit the GIS & Cartography LibGuide for more information.\nVisit the GIS Lab page to learn about the workstations and software available in Bender Library Room B53."
   }
 ]
