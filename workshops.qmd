@@ -2,41 +2,48 @@
 title: "Workshops"
 ---
 
-# Workshops
+The Geospatial Research Lab hosts workshops throughout the semester on topics in GIS, mapping, and data literacy. These sessions are open to students, faculty, and staff across American University. This page provides information about upcoming workshops and also serves as an archive where you can find handouts, slides, and other materials from past sessions.
 
-The Geospatial Research Lab hosts workshops throughout the semester on topics in GIS, mapping, and data literacy. These sessions are open to students, faculty, and staff across American University. This page provides information about upcoming workshops and also serves as an archive where you can find handouts, slides, and other materials from past sessions.  
-
-You can find the full schedule and register for upcoming events on our [AU Library Workshops Calendar](https://american.libcal.com/calendar/?cid=###).  
-
----
+------------------------------------------------------------------------
 
 ## Upcoming Workshops
 
-::: {.callout-note}
-### Data Prep for GIS Research  
-*September 2025*  
-This session introduced strategies for preparing tabular and spatial data for GIS analysis. Topics included cleaning messy data, setting up file structures, and preparing datasets for ArcGIS Pro and QGIS.  
-➡️ [View workshop materials](https://geospatialresearchlab.github.io/workshop-data-prep/)
+::: callout-note
+### AI Tools for Research: Getting Started with Literature Reviews
+
+*October 2025*\
+This session is part of the AI in Research series hosted by the Digital Research and Innovation Lab, focused on helping graduate students use emerging tools to explore, organize, and communicate research more effectively. In this workshop, we’ll reframe the literature review not as a writing assignment, but as a discovery process grounded in digital scholarship. We’ll begin with the research you already know—articles from your coursework, advisor recommendations, and foundational texts in your field—and show how AI-supported tools like Google Scholar, Semantic Scholar, and Research Rabbit can help you follow citation networks, trace conceptual lineages, and identify related work across disciplines. Along the way, we’ll demonstrate how tools like Zotero and LibKey Nomad can streamline your research workflow and help you manage your growing body of sources. Whether you’re starting a thesis, preparing for comps, or just learning to navigate the scholarly conversation, this session offers practical, research-focused strategies for using AI to build an intentional, well-scoped literature review.\
 :::
 
-::: {.callout-note}
-### Zombie Data: Preserving At-Risk Public Datasets  
-*October 2025 (Scary Data Week)*  
-This interactive workshop focused on rescuing endangered public datasets using tools like the Internet Archive’s Wayback Machine and DataLumos. Attendees learned practical preservation techniques while contributing to data rescue efforts.  
-➡️ [View workshop materials](https://geospatialresearchlab.github.io/zombie-data/)
+::: callout-note
+### AI Tools for Research: Cleaning and Documenting Messy Data with Generative AI
+
+*October 2025*\
+This hands-on workshop introduces strategies for cleaning messy research data and shows how generative AI tools can support that process. You’ll learn how to identify common issues in tabular datasets including missing values, inconsistent formatting, and duplicates and how to plan a reproducible cleanup workflow. Then, we’ll explore how to use generative AI to help write R code for cleaning tasks, with an emphasis on producing reusable scripts and well-documented steps. Designed for graduate students working with real-world data, this session is useful for anyone preparing a dataset for analysis, visualization, or sharing. No prior experience with R is helpful, but not required.\
 :::
 
----
+::: callout-note
+### Data Preservation Workshop: Bringing Data Back from the Dead!
+
+*October 2025 (Scary Data Week)*\
+Digital data doesn’t always stay put. Websites change, tools disappear, and valuable datasets can quietly slip offline—sometimes forever. In this Scary Data Week workshop, you’ll learn how to bring data “back from the dead” using the Internet Archive’s Wayback Machine. We’ll explore how and why datasets vanish, walk through the steps of preserving webpages, and give you the chance to reanimate a dataset of your own. No technical experience required—just curiosity, a laptop, and a willingness to protect public knowledge from the digital grave. Whether you’re a researcher, student, or data enthusiast, you’ll leave this session with practical skills and a deeper understanding of the role you can play in preserving civic information.\
+:::
+
+------------------------------------------------------------------------
 
 ## Past Workshops
 
-::: {.callout-note}
-### Mapping Small Joys: Critical Mapping in the Classroom  
-*August 2025*  
-Part of the Teaching in Place workshop series, this hands-on session used sketch mapping and zine-making to explore spatial thinking as a teaching tool. Participants created “small joys” maps and discussed ethical considerations for mapping student experiences.  
-➡️ [View workshop materials](https://geospatialresearchlab.github.io/mapping-small-joys/)
+::: callout-note
+## **Teaching in Place: Mapping as a Path to Critical Understanding**
+
+*August 2025*\
+Part of the Center for Faculty Excellence's August Faculty Workshops, this interactive workshop introduced mapping as a flexible teaching tool to help students across disciplines engage more deeply with course material. Participants took part in a sketch mapping activity that encouraged spatial reasoning and reflective thinking. The session explored how spatial thinking could help students understand relationships, power, movement, and place, and discussed simple tools from paper maps to Google Maps to web GIS for integrating mapping into teaching. It also highlighted how the library supported research and teaching with geospatial data, mapping tools, and spatial storytelling across disciplines.\
 :::
 
+::: callout-note
+## **Spark Joy in Your Data: A KonMari-Inspired Guide to Data Cleaning**
 
-
-
+*April 2025*\
+In collaboriation with the Digital Research and Innovation Lab, this fun and practical workshop helped participants bring order and clarity to messy spreadsheets using Marie Kondo-inspired principles in Excel. The session guided attendees through removing duplicates, tidying columns, and transforming cluttered datasets into meaningful insights. Whether participants were Excel novices or seasoned pros, they left with a fresh perspective on data organization and a toolkit of techniques for maintaining a sparkling, efficient workflow.\
+➡️ [View workshop materials](https://github.com/GeospatialResearchLab/workshop-data-cleaning-excel-2025)
+:::
