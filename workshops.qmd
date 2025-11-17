@@ -19,7 +19,7 @@ Learn how to create clean, publication-ready maps using R. This hands-on worksho
 ### **Intro to Mapping with Python**
 
 **TBD Spring 2026**\
-Learn how to create clean, publication-ready maps using R. This hands-on workshop introduces the basics of working with spatial data in Python, including reading shapefiles/GeoJSON, joining data, styling layers, and exporting your map. No previous experience with Python or GIS is required—we’ll start from the ground up with simple, clear examples you can adapt for research or class projects.\
+Learn how to create clean, publication-ready maps using Python. This hands-on workshop introduces the basics of working with spatial data in Python, including reading shapefiles/GeoJSON, joining data, styling layers, and exporting your map. No previous experience with Python or GIS is required—we’ll start from the ground up with simple, clear examples you can adapt for research or class projects.\
 :::
 
 :::callout-note
