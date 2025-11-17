@@ -9,9 +9,25 @@ The Geospatial Research Lab hosts workshops throughout the semester on topics in
 ## Upcoming Workshops
 
 ::: callout-note
-No scheduled workshops
+### **Intro to Mapping with R**
+
+**TBD Spring 2026**\
+Learn how to create clean, publication-ready maps using R. This hands-on workshop introduces the basics of working with spatial data in R, including reading shapefiles/GeoJSON, joining data, styling layers, and exporting your map. No previous experience with R or GIS is required—we’ll start from the ground up with simple, clear examples you can adapt for research or class projects.\
 ::: 
 
+:::callout-note
+### **Intro to Mapping with Python**
+
+**TBD Spring 2026**\
+Learn how to create clean, publication-ready maps using R. This hands-on workshop introduces the basics of working with spatial data in Python, including reading shapefiles/GeoJSON, joining data, styling layers, and exporting your map. No previous experience with Python or GIS is required—we’ll start from the ground up with simple, clear examples you can adapt for research or class projects.\
+:::
+
+:::callout-note
+### **Build Your Research Portfolio on GitHub**
+
+**TBD Spring 2026**\
+A strong portfolio can help you stand out in applications for internships, research positions, and graduate programs. This hands-on workshop will guide you through creating a GitHub Pages site to display your mapping and data visualization projects. You’ll leave with your own live website and a structure you can keep building on.\
+:::
 ------------------------------------------------------------------------
 
 ## Past Workshops
