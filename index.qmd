@@ -4,7 +4,7 @@ title: "Geospatial Research Lab"
 
 The Geospatial Research Lab is the University Library’s geospatial research support program for faculty, students, and staff at American University. We provide expertise in geographic information systems (GIS), spatial analysis, and mapping, helping the AU community apply spatial thinking and geospatial tools across disciplines. Services include guidance on data acquisition, project design, software, and map-based storytelling.
 
-Whether you’re exploring GIS methods for a class project, seeking spatial data for a capstone, or designing a map for a publication, the Geospatial Research Lab can help. We work with researchers at every stage from idea development through analysis and presentation.
+Whether you’re exploring GIS methods for a class project, seeking spatial data for a capstone, or designing a map for a publication, the Geospatial Research Lab can help. We work with researchers at every stage from idea development through analysis and publication.
 
 We also support instructors who want to integrate mapping or spatial data into their teaching. This includes help designing assignments, identifying appropriate tools or datasets, and developing lab activities or course-specific GIS resources.
 
@@ -14,6 +14,7 @@ Our work includes:
 -   Consultations on spatial methods and data
 -   Guidance with GIS tools including ArcGIS Pro, QGIS, R, and open mapping platforms
 -   Instructional support for incorporating mapping and spatial storytelling into the classroom
+-   Assistance with web-based mapping tools including Leaflet, StoryMaps, and ArcGIS Online
 -   Curation of AU’s geospatial and statistical data collections
 :::
 
