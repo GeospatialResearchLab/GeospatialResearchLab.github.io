@@ -2,10 +2,10 @@ project:
   type: website
 
 website:
-  title: 
-    text: "Geospatial Research Lab"
-    href: about.qmd
+  title: "Geospatial Research Lab"
   navbar:
+    logo-href: about.qmd
+    
     left:
       - href: https://www.american.edu/library/technology/geospatial/
         text: Home
