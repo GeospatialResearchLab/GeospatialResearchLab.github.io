@@ -9,18 +9,25 @@ The Geospatial Research Lab hosts workshops throughout the semester on topics in
 ## Upcoming Workshops
 
 ::: callout-note
+### Introduction to R with RStudio
+
+**TBD Spring 2026**\
+This beginner-friendly workshop introduces the basics of working with R and RStudio. You’ll learn how to run code, navigate the RStudio interface, install and load packages, and work with simple data. No prior experience is required. We’ll start from the very beginning so you feel comfortable using R for future coursework, research, or data projects.\
+:::
+
+::: callout-note
 ### **Intro to Mapping with R**
 
 **TBD Spring 2026**\
 Learn how to create clean, publication-ready maps using R. This hands-on workshop introduces the basics of working with spatial data in R, including reading shapefiles/GeoJSON, joining data, styling layers, and exporting your map. No previous experience with R or GIS is required—we’ll start from the ground up with simple, clear examples you can adapt for research or class projects.\
 ::: 
 
-:::callout-note
-### **Intro to Mapping with Python**
+<!-- :::callout-note -->
+<!-- ### **Intro to Mapping with Python** -->
 
-**TBD Spring 2026**\
-Learn how to create clean, publication-ready maps using Python. This hands-on workshop introduces the basics of working with spatial data in Python, including reading shapefiles/GeoJSON, joining data, styling layers, and exporting your map. No previous experience with Python or GIS is required—we’ll start from the ground up with simple, clear examples you can adapt for research or class projects.\
-:::
+<!-- **TBD Spring 2026**\ -->
+<!-- Learn how to create clean, publication-ready maps using Python. This hands-on workshop introduces the basics of working with spatial data in Python, including reading shapefiles/GeoJSON, joining data, styling layers, and exporting your map. No previous experience with Python or GIS is required—we’ll start from the ground up with simple, clear examples you can adapt for research or class projects.\ -->
+<!-- ::: -->
 
 :::callout-note
 ### **Build Your Research Portfolio on GitHub**
